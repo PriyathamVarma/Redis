@@ -57,5 +57,7 @@ APPEND key value
 - `TTL key`: Get the remaining time until a key expires.
 - `PING`: Check if the server is alive.
 
+## Resources
 
+1. [List of redis commands](https://redis.io/commands/)
 
