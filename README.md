@@ -1,4 +1,4 @@
-# Redis
+# Redis database
 
 **Redis Explained: From Beginner to Guru**
 
